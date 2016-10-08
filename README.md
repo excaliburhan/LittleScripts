@@ -1,2 +1,2 @@
-# littleScripts
-scripts for tampermonkey
+# LittleScripts
+ez script, ez life
