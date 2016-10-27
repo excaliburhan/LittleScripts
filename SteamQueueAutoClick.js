@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Steam Queue AutoClick
-// @namespace    https://github.com/excaliburhan
+// @namespace    https://github.com/excaliburhan/LittleScripts
 // @version      0.1
 // @description  autoClick steam queue
 // @author       xiaoping

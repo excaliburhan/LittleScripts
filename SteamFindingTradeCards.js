@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Steam Finding Trade Cards
-// @namespace    https://github.com/excaliburhan
+// @namespace    https://github.com/excaliburhan/LittleScripts
 // @version      0.1
-// @description  find steam trade card info
+// @description  add link to steamcardexchange
 // @author       xiaoping
 // @include      http://steamcommunity.com/id/*/inventory
 // @include      http://steamcommunity.com/profiles/*/inventory/

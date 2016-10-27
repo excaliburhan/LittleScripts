@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Teambition Style Reset
-// @namespace    https://github.com/excaliburhan
+// @namespace    https://github.com/excaliburhan/LittleScripts
 // @version      0.1
 // @description  reset teambition style
 // @author       xiaoping
