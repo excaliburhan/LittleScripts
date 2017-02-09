@@ -10,7 +10,7 @@
 
 (function() {
   function showHiddenAct(e) {
-    let task = e.target.closest('.task')
+    let task = e.target.closest('.task') || e.target.closest('.message-view')
     let timer
     if (!task) return
     function clickHiddenBtn() {
