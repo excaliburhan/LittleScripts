@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Teambition Reset
 // @namespace    https://github.com/excaliburhan/LittleScripts
-// @version      0.2
+// @version      0.3
 // @description  reset teambition
 // @author       xiaoping
 // @include      https://www.teambition.com/*
@@ -38,5 +38,5 @@
   style.type = 'text/css'
   style.appendChild(document.createTextNode(css))
   head.appendChild(style)
-
+  console.log(1)
 })()
