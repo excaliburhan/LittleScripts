@@ -1,13 +1,9 @@
-# LittleScripts
+# tampermonkey-scripts
 
-### TeambitionStyleReset.js
-- change teambition style
+### steam-autoclick.js
 
-### SteamQueueAutoClick.js
-- autoClick to skip steam queue
+- autoclick to skip steam queue
 
-### SteamFindingTradeCards.js
-- add link to steamcardexchange
+### iconfinder-download
 
-### DownloadBaiduyunBigFile.js
-- fix baiduyun download limit
+- download iconfinder iconsets
